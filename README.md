@@ -1,4 +1,3 @@
-# Hello world
+# ExamCode
 
-如果这个模板有用，请点一个🌟吧！
-[Github Repo](https://github.com/Codesire-Deng/TemplateRepoCxx)
+23秋招笔试代码仓库
