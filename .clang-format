@@ -51,7 +51,7 @@ NamespaceIndentation: Inner
 PointerAlignment: Right
 ReflowComments: true
 # RequiresClausePosition: OwnLine
-ShortNamespaceLines: 5
+# ShortNamespaceLines: 5
 SortIncludes:    false
 SortUsingDeclarations: false
 SpaceAfterCStyleCast: false
